@@ -1,0 +1,23 @@
+,,Team 4,,,,,,,,,,,,,
+,,Discover Collectively Open Science Projects,,,,,,,,,,,,,
+,,"A major appeal of Open Science is the capacity to harness collective intelligence and face big scientific challenges, unmet when researchers are working in isolation. Below is a list of such projects. Work your way through the list (up to you if you wish to divide and conquer, work in couples or as a group) to discover the projects. Apply your score (1-5 low-to-high score), using 10 of the Vienna Open Science Principles (Do read here: https://viennaprinciples.org/) to rank the projects’ ‘openness’. Add a few comments on what you appreciated and what you think could be improved in these projects.",,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Project,Premise of the project in one simple phrase!,Accessibility,Discoverability,Publication,Reusability,Reproducibility,Transparency,Understandability,Collaboration,Evaluation,Public Good,Total score,positive remarks,Improvement remarks
+,Human Brain Project,Demystifying human brain for mankind and technology,3,4,5,3,3,5,4,4,4,4,39,"Accessibility: 
+-part of the research is publicly available
+- You have to register
+The site presents a page called atlases which can be used to simulate different options on the top of it. ","To bring the results closer to the general population, a special section would be missing or when entering the page a simple entry with options for experts and non-experts, in order to explore the official site with simple language."
+,Event Horizon Telescope,EHT is aiming to bring blackholes in to focus during coming years,5,4,5,5,4,3,5,5,3,4,43,Scientific materials and data available for experts. There are also videos and simulations for better understanding of public.,The website is not much user friendly and you have to spend some time until you get familiar to it. it seems very basic and boring at first glimpse.
+,Science Feedback,Scientists help readers know which news to trust,5,4,3,3,4,5,3,4,2,5,38,"the publications are of an excellent level of design, have relevant information and the language is adequate, therefore, the articles are verifiable.","Improve the network strategy so that more people follow the content.                                                                                                     At the moment of opening a link to read, the system sends me to another page where the article is, it would be better to open a second page so as not to lose the main one.                                       Perhaps, they could make videos in non-scientific language, understandable to other audiences."
+,Open Worm,Simulating world's 1st computational model of C.elegans,3,3,3,3,4,3,1,4,3,2,29,All the code produced is an open source.,It seems to be more coder friendly. The website layout is difficult to understand as compared to other websites
+,Safecast,Analyzing the thin air,5,4,4,4,3,4,5,4,3,2,38,"it is accessible to everyone, the data is usefull for health organisation","It is more better if publications using the data set are introduced 
+Promotion to collaborate seems lacking 
+Tutorials of how to use dataset would raise reusability"
+,SenseBox,Facilitating citizen science and education with electrionic kits,5,3,1,3,3,3,5,3,2,5,33,"- No account is reqiuired to access the software and other elements
+- Tutorial videos and forum could enhance public good
+- Structure of the website is simple and undastandable","- Some resourses are available only in local language (Danish) so English version would help the improvement of discoverability/transparency
+- Project page or teaching-material page could contain the tips of assessment of learners' outcomes to enrich quality assurance/evaluation
+- It will be more better to intoduce publication list in particular scientific contributions"
+,Kiron ,Open and free education for all,4,5,,5,5,4,5,5,3,5,41,-Open access to all resources,"- Not enough information on the web
+- Morel like a campaign rather than a research "
