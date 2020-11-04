@@ -10,7 +10,7 @@ Which kind of style of learning is effective to internalize the knowledge about 
 Hypothesis:
 To input public health knowledge (COVID19), Studying using media (watching documentary video) is more effective rather than studying with traditional approach (reading book/instruction)
 Experiment design
-At least 18 students will be evenly distributed in two groups, to measure their learning with two different types of teaching.
+At least 18 students will be evenly and randomly distributed in two groups, to measure their learning with two different types of teaching.
 
 Group 1: Studying with digital media: video
 
